@@ -2,6 +2,7 @@
   "name": "@mgolestan/eslint-config-react-app",
   "version": "1.0.25",
   "description": "A clone of the eslint-config-react-app package with updated dependencies",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/mGolestan98/eslint-config-react-app-bump.git"
