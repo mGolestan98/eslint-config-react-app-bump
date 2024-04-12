@@ -1,6 +1,6 @@
 {
-  "name": "@mgolestan/eslint-config-react-app",
-  "version": "1.0.25",
+  "name": "eslint-config-react-app-bumped",
+  "version": "1.0.26",
   "description": "A clone of the eslint-config-react-app package with updated dependencies",
   "private": false,
   "repository": {
